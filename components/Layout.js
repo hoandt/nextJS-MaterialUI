@@ -18,6 +18,6 @@ function Layout({ children, title, siteName }) {
 }
 Layout.defaultProps = {
   title: "",
-  siteName: "VNC Shopping",
+  siteName: "VNC Shopping - Webos",
 };
 export default Layout;
